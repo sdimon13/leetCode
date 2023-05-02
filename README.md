@@ -4,6 +4,7 @@ LeetCode Problems Solutions
 
 |  #   | Title                                                               |                          Solution                           | Difficulty |
 |:----:|:--------------------------------------------------------------------|:-----------------------------------------------------------:|:----------:|
+| 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)               |            [GO](algorithms/reverse-linked-list)             |    Easy    |
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/)               |                [GO](algorithms/ransom-note)                 |    Easy    |
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)               |                 [GO](algorithms/fizz-buzz)                  |    Easy    |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)               |         [GO](algorithms/middle-of-the-linked-list)          |    Easy    |
