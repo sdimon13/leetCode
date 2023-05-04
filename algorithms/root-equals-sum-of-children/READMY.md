@@ -14,9 +14,8 @@ Return `true` if the value of the root is equal to the <b>sum</b> of the values 
 
 <img src="https://assets.leetcode.com/uploads/2022/04/08/graph3drawio.png">
 
-Input: `root = [10,4,6]`
-
-Output: `true`
+    Input: root = [10,4,6]
+    Output: true
 
 Explanation: `The values of the root, its left child, and its right child are 10, 4, and 6, respectively.
 10 is equal to 4 + 6, so we return true.`
@@ -25,9 +24,8 @@ Explanation: `The values of the root, its left child, and its right child are 10
 
 <img src="https://assets.leetcode.com/uploads/2022/04/08/graph3drawio-1.png">
 
-Input: `root = [5,3,1]`
-
-Output: `false`
+    Input: root = [5,3,1]
+    Output: false
 
 Explanation: `The values of the root, its left child, and its right child are 5, 3, and 1, respectively.
 5 is not equal to 3 + 1, so we return false.`
