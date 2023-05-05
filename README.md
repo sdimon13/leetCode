@@ -7,6 +7,7 @@ LeetCode Problems Solutions
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)               |             [GO](algorithms/search-a-2d-matrix)             |    Medium    |
 | 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)               |              [GO](algorithms/number-of-1-bits)              |    Easy    |
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)               |            [GO](algorithms/reverse-linked-list)             |    Easy    |
+| 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/)               |                [GO](algorithms/power-of-two)                |    Easy    |
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/)               |                [GO](algorithms/ransom-note)                 |    Easy    |
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)               |                 [GO](algorithms/fizz-buzz)                  |    Easy    |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)               |         [GO](algorithms/middle-of-the-linked-list)          |    Easy    |
