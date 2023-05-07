@@ -4,6 +4,7 @@ LeetCode Problems Solutions
 
 |  #   | Title                                                               |                          Solution                           | Difficulty |
 |:----:|:--------------------------------------------------------------------|:-----------------------------------------------------------:|:----------:|
+| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)               |             [GO](algorithms/valid-parentheses)             |    Easy    |
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)               |             [GO](algorithms/search-a-2d-matrix)             |    Medium    |
 | 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)               |              [GO](algorithms/number-of-1-bits)              |    Easy    |
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)               |              [GO](algorithms/number-of-islands)              |    Medium    |
