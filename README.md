@@ -12,6 +12,7 @@ LeetCode Problems Solutions
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/)               |                [GO](algorithms/power-of-two)                |    Easy    |
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/)               |                [GO](algorithms/ransom-note)                 |    Easy    |
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)               |                 [GO](algorithms/fizz-buzz)                  |    Easy    |
+| 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)               |                 [GO](algorithms/find-pivot-index)                  |    Easy    |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)               |         [GO](algorithms/middle-of-the-linked-list)          |    Easy    |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)               | [GO](algorithms/number-of-steps-to-reduce-a-number-to-zero) |    Easy    |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)               |          [GO](algorithms/running-sum-of-1-d-array)          |    Easy    |
