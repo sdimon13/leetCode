@@ -8,6 +8,7 @@ LeetCode Problems Solutions
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                                 |             [GO](algorithms/search-a-2d-matrix)             |   Medium   |
 | 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                     |              [GO](algorithms/number-of-1-bits)              |    Easy    |
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                   |             [GO](algorithms/number-of-islands)              |   Medium   |
+| 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                                 |             [GO](algorithms/isomorphic-strings)             |    Easy    |
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                               |            [GO](algorithms/reverse-linked-list)             |    Easy    |
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                             |                [GO](algorithms/power-of-two)                |    Easy    |
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                                               |                [GO](algorithms/ransom-note)                 |    Easy    |
