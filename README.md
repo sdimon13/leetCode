@@ -1,6 +1,6 @@
-# [LeetCode](https://awesee.github.io/leetcode)
-LeetCode Problems Solutions
+# [LeetCode](https://github.com/sdimon13/leetCode)
 
+LeetCode Problems Solutions
 
 |  #   | Title                                                                                                                   |                          Solution                           | Difficulty |
 |:----:|:------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------:|:----------:|
@@ -11,6 +11,7 @@ LeetCode Problems Solutions
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                               |            [GO](algorithms/reverse-linked-list)             |    Easy    |
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                             |                [GO](algorithms/power-of-two)                |    Easy    |
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                                               |                [GO](algorithms/ransom-note)                 |    Easy    |
+| 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                         |               [GO](algorithms/is-subsequence)               |    Easy    |
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                                   |                 [GO](algorithms/fizz-buzz)                  |    Easy    |
 | 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)                                                     |              [GO](algorithms/find-pivot-index)              |    Easy    |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                   |         [GO](algorithms/middle-of-the-linked-list)          |    Easy    |
