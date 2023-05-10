@@ -1,6 +1,15 @@
-# [LeetCode](https://github.com/sdimon13/leetCode)
+# [LeetCode Solutions](https://github.com/sdimon13/leetCode)
 
-LeetCode Problems Solutions
+## Description
+This repository contains my solutions to problems from [LeetCode](https://leetcode.com/). I am using Go for solving the problems, and each solution includes comments explaining my approach.
+
+## How to Use
+You can browse the solutions for learning purposes or as inspiration for your own solutions. Each solution includes a link to the corresponding problem on LeetCode.
+
+## Contributing
+If you would like to contribute to this repository, please first open an issue or join the discussion of existing ones.
+
+## Solutions
 
 |  #   | Title                                                                                                                            |                          Solution                           | Difficulty |
 |:----:|:---------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------:|:----------:|
@@ -23,3 +32,6 @@ LeetCode Problems Solutions
 | 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/)                                  |       [GO](algorithms/find-the-middle-index-in-array)       |    Easy    |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/)                                                              |              [GO](algorithms/add-two-integers)              |    Easy    |
 | 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)                                        |        [GO](algorithms/root-equals-sum-of-children)         |    Easy    |
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
