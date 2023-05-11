@@ -1,37 +1,44 @@
 # [LeetCode Solutions](https://github.com/sdimon13/leetCode)
 
 ## Description
-This repository contains my solutions to problems from [LeetCode](https://leetcode.com/). I am using Go for solving the problems, and each solution includes comments explaining my approach.
+
+This repository contains my solutions to problems from [LeetCode](https://leetcode.com/). I am using Go for solving the
+problems, and each solution includes comments explaining my approach.
 
 ## How to Use
-You can browse the solutions for learning purposes or as inspiration for your own solutions. Each solution includes a link to the corresponding problem on LeetCode.
+
+You can browse the solutions for learning purposes or as inspiration for your own solutions. Each solution includes a
+link to the corresponding problem on LeetCode.
 
 ## Contributing
+
 If you would like to contribute to this repository, please first open an issue or join the discussion of existing ones.
 
 ## Solutions
 
-|  #   | Title                                                                                                                            |                          Solution                           | Difficulty |
-|:----:|:---------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------:|:----------:|
-| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                            |             [GO](algorithms/valid-parentheses)              |    Easy    |
-| 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                  |           [GO](algorithms/merge-two-sorted-lists)           |    Easy    |
-| 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                                          |             [GO](algorithms/search-a-2d-matrix)             |   Medium   |
-| 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                              |              [GO](algorithms/number-of-1-bits)              |    Easy    |
-| 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                            |             [GO](algorithms/number-of-islands)              |   Medium   |
-| 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                                          |             [GO](algorithms/isomorphic-strings)             |    Easy    |
-| 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                        |            [GO](algorithms/reverse-linked-list)             |    Easy    |
-| 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                                      |                [GO](algorithms/power-of-two)                |    Easy    |
-| 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                                                        |                [GO](algorithms/ransom-note)                 |    Easy    |
-| 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                  |               [GO](algorithms/is-subsequence)               |    Easy    |
-| 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                                            |                 [GO](algorithms/fizz-buzz)                  |    Easy    |
-| 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)                                                              |              [GO](algorithms/find-pivot-index)              |    Easy    |
-| 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                            |         [GO](algorithms/middle-of-the-linked-list)          |    Easy    |
-| 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)          | [GO](algorithms/number-of-steps-to-reduce-a-number-to-zero) |    Easy    |
-| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                                |          [GO](algorithms/running-sum-of-1-d-array)          |    Easy    |
-| 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)                                                |          [GO](algorithms/richest-customer-wealth)           |    Easy    |
-| 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/)                                  |       [GO](algorithms/find-the-middle-index-in-array)       |    Easy    |
-| 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/)                                                              |              [GO](algorithms/add-two-integers)              |    Easy    |
-| 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)                                        |        [GO](algorithms/root-equals-sum-of-children)         |    Easy    |
+|  #   | Title                                                                                                                               |                          Solution                           | Difficulty |
+|:----:|:------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------:|:----------:|
+| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                               |             [GO](algorithms/valid-parentheses)              |    Easy    |
+| 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                     |           [GO](algorithms/merge-two-sorted-lists)           |    Easy    |
+| 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                                             |             [GO](algorithms/search-a-2d-matrix)             |   Medium   |
+| 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                                         |            [GO](algorithms/linked-list-cycle-ii)            |   Medium   |
+| 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                                 |              [GO](algorithms/number-of-1-bits)              |    Easy    |
+| 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                               |             [GO](algorithms/number-of-islands)              |   Medium   |
+| 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                                             |             [GO](algorithms/isomorphic-strings)             |    Easy    |
+| 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                           |            [GO](algorithms/reverse-linked-list)             |    Easy    |
+| 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                                         |                [GO](algorithms/power-of-two)                |    Easy    |
+| 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                                                           |                [GO](algorithms/ransom-note)                 |    Easy    |
+| 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                     |               [GO](algorithms/is-subsequence)               |    Easy    |
+| 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                                               |                 [GO](algorithms/fizz-buzz)                  |    Easy    |
+| 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)                                                                 |              [GO](algorithms/find-pivot-index)              |    Easy    |
+| 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                               |         [GO](algorithms/middle-of-the-linked-list)          |    Easy    |
+| 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)             | [GO](algorithms/number-of-steps-to-reduce-a-number-to-zero) |    Easy    |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                                   |          [GO](algorithms/running-sum-of-1-d-array)          |    Easy    |
+| 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)                                                   |          [GO](algorithms/richest-customer-wealth)           |    Easy    |
+| 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/)                                     |       [GO](algorithms/find-the-middle-index-in-array)       |    Easy    |
+| 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/)                                                                 |              [GO](algorithms/add-two-integers)              |    Easy    |
+| 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)                                           |        [GO](algorithms/root-equals-sum-of-children)         |    Easy    |
 
 ## License
+
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
