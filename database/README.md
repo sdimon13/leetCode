@@ -17,8 +17,7 @@ To verify the correctness of database solutions, I provide a Docker container wi
 
 - Run the Docker container with MySQL by using the command below in your terminal:
 
-
-    docker run --name test-mysql -e MYSQL_ROOT_PASSWORD=my-secret-pw -e MYSQL_DATABASE=testdb -p 3306:3306 -d mysql:latest
+`docker run --name test-mysql -e MYSQL_ROOT_PASSWORD=my-secret-pw -e MYSQL_DATABASE=testdb -p 3306:3306 -d mysql:latest`
 
 - Now you can use any MySQL client to connect to the database using the host localhost, the port 3306, and the root password my-secret-pw.
 
@@ -26,13 +25,11 @@ To verify the correctness of database solutions, I provide a Docker container wi
 
 - **Remember**: After finishing your work, stop the Docker container by using the command below in your terminal:
 
-
-    docker stop test-mysql
+`docker stop test-mysql`
 
 - If you need to start the container again, use the following command:
 
-
-    docker start test-mysql
+`docker start test-mysql`
 
 ## Contributing
 
