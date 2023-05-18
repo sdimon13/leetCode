@@ -14,7 +14,7 @@ link to the corresponding problem on LeetCode.
 
 If you would like to contribute to this repository, please first open an issue or join the discussion of existing ones.
 
-## Solutions
+## Algorithm Solutions
 
 |  #   | Title                                                                                                                                             |                                 Solution                                 | Difficulty |
 |:----:|:--------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------:|:----------:|
@@ -50,6 +50,13 @@ If you would like to contribute to this repository, please first open an issue o
 | 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/)                                                   |             [GO](algorithms/find-the-middle-index-in-array)              |    Easy    |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/)                                                                               |                    [GO](algorithms/add-two-integers)                     |    Easy    |
 | 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)                                                         |               [GO](algorithms/root-equals-sum-of-children)               |    Easy    |
+
+## Database Solutions
+
+|  #   | Title                                                                             |                Solution                | Difficulty |
+|:----:|:----------------------------------------------------------------------------------|:--------------------------------------:|:----------:|
+| 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [GO](database/delete-duplicate-emails) |    Easy    |
+
 
 ## License
 
