@@ -38,6 +38,7 @@ If you would like to contribute to this repository, please first open an issue o
 | 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                                   |                     [GO](algorithms/is-subsequence)                      |    Easy    |
 | 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)                                                                           |                   [GO](algorithms/longest-palindrome)                    |    Easy    |
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                                                             |                        [GO](algorithms/fizz-buzz)                        |    Easy    |
+| 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)                                                     |              [GO](algorithms/find-all-anagrams-in-a-string)              |   Medium   |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                                                                               |                    [GO](algorithms/fibonacci-number)                     |    Easy    |
 | 0589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)                                                     |              [GO](algorithms/n-ary-tree-preorder-traversal)              |    Easy    |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                                     |                      [GO](algorithms/binary-search)                      |    Easy    |
@@ -58,7 +59,6 @@ If you would like to contribute to this repository, please first open an issue o
 |  #   | Title                                                                             |                 Solution                  | Difficulty |
 |:----:|:----------------------------------------------------------------------------------|:-----------------------------------------:|:----------:|
 | 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [MySql](database/delete-duplicate-emails) |    Easy    |
-
 
 ## License
 
