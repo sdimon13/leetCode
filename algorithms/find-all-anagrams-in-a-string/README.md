@@ -39,17 +39,23 @@ An **Anagram** is a word or phrase formed by rearranging the letters of a differ
 # Solution
 
 ## Intuition
-The problem asks for the calculation of the nth Fibonacci number. The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, usually starting with 0 and 1. That is, 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, and so forth.
+Upon first glance at this problem, the technique of "sliding window" in combination with "character frequency counting" seems like a promising approach. The primary challenge is finding all anagrams of a string **p** within a string **s**, and the key insight here is recognizing that two strings are anagrams of each other if their character frequencies are the same.
 
 ## Approach
-An iterative approach is taken here to solve this problem efficiently. The idea is to use two variables to keep track of the last two numbers in the Fibonacci sequence. Start from the base case where the first number is 0 and the second number is 1. Then, iterate from 2 to n, in each iteration, calculate the next Fibonacci number as the sum of the last two numbers, and update the last two numbers accordingly.
+1. Create two frequency count arrays of size 26 (for each alphabet letter), one to track the frequency of characters in the target string (**p**), and another to track the frequency in the current sliding window in **s**.
+2. Traverse the string **p** and increment the corresponding counter in the first array for each character.
+3. Begin scanning the string **s** with a sliding window of the size of **p**. Increment the corresponding counter in the second array for each character.
+4. Compare the two frequency count arrays. If they are the same, we have found an anagram, and add the starting index of this window to the result list.
+5. After each step, move the window to the right. Decrease the counter for the character that is moving out of the window, and increase the counter for the character that is entering the window.
+6. Continue steps 4 and 5 until the window reaches the end of string **s**.
+7. At the end of the algorithm, the result list will contain the starting indices of all the found anagrams.
 
 ## Complexity
 - Time complexity:
-  The time complexity is O(n) because we have to iterate through all numbers up to n.
+  The time complexity is O(n) because we are passing through the string **s** only once, where **n** is the length of the string **s**.
 
 - Space complexity:
-  The space complexity is O(1) because we are only using two variables to keep track of the last two Fibonacci numbers, regardless of the size of n.
+  The space complexity is O(1) because the size of the frequency arrays is fixed (26 for the number of lowercase English letters), and the result list's size does not exceed the length of the string **s**.
 
 ---
 
