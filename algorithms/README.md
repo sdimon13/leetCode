@@ -18,6 +18,7 @@ If you would like to contribute to this repository, please first open an issue o
 
 |  #   | Title                                                                                                                                             |                           Solution                            | Difficulty |
 |:----:|:--------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------:|:----------:|
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                 |                         [GO](two-sum)                         |    Easy    |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                                             |                    [GO](valid-parentheses)                    |    Easy    |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                                   |                 [GO](merge-two-sorted-lists)                  |    Easy    |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                                       |                      [GO](unique-paths)                       |   Medium   |

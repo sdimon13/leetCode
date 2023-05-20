@@ -18,6 +18,7 @@ If you would like to contribute to this repository, please first open an issue o
 
 |  #   | Title                                                                                                                                             |                                 Solution                                 | Difficulty |
 |:----:|:--------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------:|:----------:|
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                 |                         [GO](algorithms/two-sum)                         |    Easy    |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                                             |                    [GO](algorithms/valid-parentheses)                    |    Easy    |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                                   |                 [GO](algorithms/merge-two-sorted-lists)                  |    Easy    |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                                       |                      [GO](algorithms/unique-paths)                       |   Medium   |
@@ -57,10 +58,10 @@ If you would like to contribute to this repository, please first open an issue o
 
 ## Database Solutions
 
-|  #   | Title                                                                                                                    |                          Solution                          | Difficulty |
-|:----:|:-------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------:|:----------:|
-| 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)  | [GO](database/employees-earning-more-than-their-managers)  |    Easy    |
-| 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)                                        |         [MySql](database/delete-duplicate-emails)          |    Easy    |
+|  #   | Title                                                                                                                   |                         Solution                          | Difficulty |
+|:----:|:------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------:|:----------:|
+| 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [GO](database/employees-earning-more-than-their-managers) |    Easy    |
+| 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)                                       |         [MySql](database/delete-duplicate-emails)         |    Easy    |
 
 ## License
 
