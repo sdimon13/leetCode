@@ -37,6 +37,7 @@ If you would like to contribute to this repository, please first open an issue o
 
 ## Database Solutions
 
-|  #   | Title                                                                             |            Solution            | Difficulty |
-|:----:|:----------------------------------------------------------------------------------|:------------------------------:|:----------:|
-| 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [GO](delete-duplicate-emails)  |    Easy    |
+|  #   | Title                                                                                                                    |                     Solution                      | Difficulty |
+|:----:|:-------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------:|:----------:|
+| 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)  | [GO](employees-earning-more-than-their-managers)  |    Easy    |
+| 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)                                        |           [GO](delete-duplicate-emails)           |    Easy    |
