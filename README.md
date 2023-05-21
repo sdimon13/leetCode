@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains my solutions to problems from [LeetCode](https://leetcode.com/). I am using Go for solving the
+This repository contains my solutions to problems from [LeetCode](https://leetcode.com/). I am using Go and MySql for solving the
 problems, and each solution includes comments explaining my approach.
 
 ## How to Use
