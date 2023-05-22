@@ -2,7 +2,8 @@
 
 ## Description
 
-This repository contains my solutions to problems from [LeetCode](https://leetcode.com/). I am using Go and MySql for solving the
+This repository contains my solutions to problems from [LeetCode](https://leetcode.com/). I am using Go and MySql for
+solving the
 problems, and each solution includes comments explaining my approach.
 
 ## How to Use
@@ -51,6 +52,7 @@ If you would like to contribute to this repository, please first open an issue o
 | 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)                                                               |                [GO](algorithms/min-cost-climbing-stairs)                 |    Easy    |
 | 0844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)                                                               |                [GO](algorithms/backspace-string-compare)                 |    Easy    |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                                             |                [GO](algorithms/middle-of-the-linked-list)                |    Easy    |
+| 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                                                                             |                    [GO](algorithms/last-stone-weight)                    |    Easy    |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)                           |       [GO](algorithms/number-of-steps-to-reduce-a-number-to-zero)        |    Easy    |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                                                 |                [GO](algorithms/running-sum-of-1-d-array)                 |    Easy    |
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [GO](algorithms/average-salary-excluding-the-minimum-and-maximum-salary) |    Easy    |
@@ -61,10 +63,10 @@ If you would like to contribute to this repository, please first open an issue o
 
 ## Database Solutions
 
-|  #   | Title                                                                                                                   |                         Solution                          | Difficulty |
-|:----:|:------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------:|:----------:|
+|  #   | Title                                                                                                                   |                           Solution                           | Difficulty |
+|:----:|:------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------:|:----------:|
 | 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [MySql](database/employees-earning-more-than-their-managers) |    Easy    |
-| 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)                                       |         [MySql](database/delete-duplicate-emails)         |    Easy    |
+| 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)                                       |          [MySql](database/delete-duplicate-emails)           |    Easy    |
 
 ## License
 
