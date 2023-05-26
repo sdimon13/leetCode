@@ -42,8 +42,9 @@ If you would like to contribute to this repository, please first open an issue o
 
 ## Database Solutions
 
-|  #   | Title                                                                                                                   |                     Solution                     | Difficulty |
-|:----:|:------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------:|:----------:|
-| 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [GO](employees-earning-more-than-their-managers) |    Easy    |
-| 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)                                                     |              [GO](duplicate-emails)              |    Easy    |
-| 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)                                       |          [GO](delete-duplicate-emails)           |    Easy    |
+|  #   | Title                                                                                                                   |                      Solution                       | Difficulty |
+|:----:|:------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------:|:----------:|
+| 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [MySql](employees-earning-more-than-their-managers) |    Easy    |
+| 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)                                                     |              [MySql](duplicate-emails)              |    Easy    |
+| 0183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)                                   |         [MySql](customers-who-never-order)          |    Easy    |
+| 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)                                       |          [MySql](delete-duplicate-emails)           |    Easy    |
