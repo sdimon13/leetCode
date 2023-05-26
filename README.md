@@ -1,8 +1,18 @@
 # [LeetCode Solutions](https://github.com/sdimon13/leetCode)
 
+is a website containing many **algorithm questions**. Most of them are real interview questions of **Google, Facebook,
+LinkedIn, Apple**, etc. and it always help to sharp our algorithm Skills. Level up your coding skills and quickly land a
+job. This is the best place to expand your knowledge and get prepared for your next interview. This repo shows my
+solutions in Go with the code style strictly follows
+the [Google Golang Style Guide](https://github.com/golang/go/wiki/CodeReviewComments). Please feel free to reference and
+**STAR** to support this repo, thank you!
+
+![logo](logo.png)
+
 ## Description
 
-This repository contains my solutions to problems from [LeetCode](https://leetcode.com/). I am using Go and MySql for
+This repository contains my [solutions](https://leetcode.com/sdimon13/) to problems
+from [LeetCode](https://leetcode.com/). I am using Go and MySql for
 solving the
 problems, and each solution includes comments explaining my approach.
 
@@ -14,6 +24,9 @@ link to the corresponding problem on LeetCode.
 ## Contributing
 
 If you would like to contribute to this repository, please first open an issue or join the discussion of existing ones.
+
+## My Stats
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=sdimon13)](https://github.com/KnlnKS/leetcode-stats)
 
 ## Algorithm Solutions
 
