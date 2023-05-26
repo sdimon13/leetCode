@@ -47,4 +47,5 @@ If you would like to contribute to this repository, please first open an issue o
 | 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [MySql](employees-earning-more-than-their-managers) |    Easy    |
 | 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)                                                     |              [MySql](duplicate-emails)              |    Easy    |
 | 0183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)                                   |         [MySql](customers-who-never-order)          |    Easy    |
+| 0184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)                                   |         [MySql](department-highest-salary)          |   Medium   |
 | 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)                                       |          [MySql](delete-duplicate-emails)           |    Easy    |
