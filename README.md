@@ -49,6 +49,7 @@ If you would like to contribute to this repository, please first open an issue o
 | 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)                                                     |              [MySql](database/duplicate-emails)              |    Easy    |
 | 0183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)                                   |         [MySql](database/customers-who-never-order)          |    Easy    |
 | 0184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)                                   |         [MySql](database/department-highest-salary)          |   Medium   |
+| 0185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)                           |       [MySql](database/department-top-three-salaries)        |    Hard    |
 | 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)                                       |          [MySql](database/delete-duplicate-emails)           |    Easy    |
 
 ## My Stats
