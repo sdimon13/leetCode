@@ -1,4 +1,4 @@
-package delete_duplicate_emails
+package duplicate_emails
 
 import (
 	"github.com/sdimon13/leetCode/database"
