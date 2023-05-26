@@ -28,7 +28,7 @@ If you would like to contribute to this repository, please first open an issue o
 ## My Stats
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=sdimon13)](https://github.com/KnlnKS/leetcode-stats)
 
-## Algorithm Solutions
+## [Algorithm Solutions](algorithms)
 
 |  #   | Title                                                                                                                                             |                                 Solution                                 | Difficulty |
 |:----:|:--------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------:|:----------:|
@@ -75,7 +75,7 @@ If you would like to contribute to this repository, please first open an issue o
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/)                                                                               |                    [GO](algorithms/add-two-integers)                     |    Easy    |
 | 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)                                                         |               [GO](algorithms/root-equals-sum-of-children)               |    Easy    |
 
-## Database Solutions
+## [Database Solutions](database)
 
 |  #   | Title                                                                                                                   |                           Solution                           | Difficulty |
 |:----:|:------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------:|:----------:|
