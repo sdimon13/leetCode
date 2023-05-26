@@ -1,6 +1,6 @@
 # [LeetCode Solutions](https://github.com/sdimon13/leetCode)
 
-is a website containing many **algorithm questions**. Most of them are real interview questions of **Google, Facebook,
+Leetcode is a website containing many **algorithm questions**. Most of them are real interview questions of **Google, Facebook,
 LinkedIn, Apple**, etc. and it always help to sharp our algorithm Skills. Level up your coding skills and quickly land a
 job. This is the best place to expand your knowledge and get prepared for your next interview. This repo shows my
 solutions in Go with the code style strictly follows
