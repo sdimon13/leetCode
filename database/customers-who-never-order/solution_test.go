@@ -1,4 +1,4 @@
-package delete_duplicate_emails
+package customers_who_never_order
 
 import (
 	"github.com/sdimon13/leetCode/database"
