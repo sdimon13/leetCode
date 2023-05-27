@@ -52,6 +52,9 @@ If you would like to contribute to this repository, please first open an issue o
 | 0184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)                                   |         [MySql](database/department-highest-salary)          |   Medium   |
 | 0185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)                           |       [MySql](database/department-top-three-salaries)        |    Hard    |
 | 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)                                       |          [MySql](database/delete-duplicate-emails)           |    Easy    |
+| 0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)                                           |           [MySql](database/find-customer-referee)            |    Easy    |
+| 0595 | [Big Countries](https://leetcode.com/problems/big-countries/)                                                           |               [MySql](database/big-countries)                |    Easy    |
+| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)                       |      [MySql](database/recyclable-and-low-fat-products)       |    Easy    |
 
 ## My Stats
 
