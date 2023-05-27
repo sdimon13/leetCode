@@ -55,3 +55,4 @@ If you would like to contribute to this repository, please first open an issue o
 | 0595 | [Big Countries](https://leetcode.com/problems/big-countries/)                                                           |               [MySql](big-countries)                |    Easy    |
 | 0627 | [Swap Salary](https://leetcode.com/problems/swap-salary/)                                                               |                [MySql](swap-salary)                 |    Easy    |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)                       |      [MySql](recyclable-and-low-fat-products)       |    Easy    |
+| 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)                                       |          [MySql](calculate-special-bonus)           |    Easy    |
