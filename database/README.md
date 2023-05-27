@@ -53,4 +53,5 @@ If you would like to contribute to this repository, please first open an issue o
 | 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)                                       |          [MySql](delete-duplicate-emails)           |    Easy    |
 | 0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)                                           |           [MySql](find-customer-referee)            |    Easy    |
 | 0595 | [Big Countries](https://leetcode.com/problems/big-countries/)                                                           |               [MySql](big-countries)                |    Easy    |
+| 0627 | [Swap Salary](https://leetcode.com/problems/swap-salary/)                                                               |                [MySql](swap-salary)                 |    Easy    |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)                       |      [MySql](recyclable-and-low-fat-products)       |    Easy    |
