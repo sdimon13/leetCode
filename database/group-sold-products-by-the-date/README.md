@@ -61,34 +61,30 @@ The query result format is in the following example.
 
 ## Intuition
 
-The problem is straightforward as it's mainly about string manipulation. The requirement is to format user names in a
-specific way - only the first character should be in uppercase and the rest should be in lowercase.
+Given a table of sales data containing a date and a product, the problem asks for each date, the number of different
+products sold and their names, sorted lexicographically. SQL is well-suited for these types of operations as it provides
+**GROUP BY** clause for grouping results by a particular column (in this case, **sell_date**), and aggregation functions
+like **COUNT** for counting distinct items and **GROUP_CONCAT** for concatenating strings.
 
 ## Approach
 
-We can leverage built-in SQL functions to solve this problem. Specifically, **UPPER()**, **LOWER()**, **SUBSTR()**, and
-**CONCAT()** functions will be handy.
-
-The **SUBSTR()** function is used to extract a part of the string. We will extract the first character and the rest of
-the string separately.
-
-We will use **UPPER()** on the first character to make sure it's in uppercase, and **LOWER()** on the rest of the string
-to convert it to lowercase.
-
-The **CONCAT()** function will help us combine the first character (which is now in uppercase) and the rest of the
-string (which is now in lowercase) together.
-
-Finally, we sort the result by **user_id**.
+- The query groups the data by **sell_date** using the **GROUP BY** clause.
+- Then, for each date, it counts the number of distinct products sold using **COUNT(DISTINCT(product))**. This gives the
+  total number of unique products sold each day.
+- To get the product names, it concatenates the distinct product names lexicographically using **GROUP_CONCAT(DISTINCT
+  product ORDER BY product separator ',')**. This provides a comma-separated list of unique product names sold each day,
+  sorted lexicographically.
+- Finally, the query orders the result by **sell_date** to ensure the output is sorted by date.
 
 ## Complexity
 
 - Time complexity:
-  The time complexity of this SQL query is O(n), where n is the total number of users in the table. This is because the
-  query needs to process each user's name to make sure it meets the specified conditions.
+  The query involves a group by operation, which requires a full scan of the table. Assuming there are n records in the
+  table, the time complexity is O(n).
 
 - Space complexity:
-  The space complexity is O(1). We are not using any extra space that scales with the size of the input. The memory used
-  to store the result set is not typically counted towards space complexity.
+  The result set will contain as many rows as there are unique sell dates. In the worst case scenario, each row in the
+  table has a unique sell date, so the space complexity is also O(n).
 
 ---
 
