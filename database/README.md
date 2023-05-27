@@ -60,3 +60,4 @@ If you would like to contribute to this repository, please first open an issue o
 | 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/)                                             |            [MySql](fix-names-in-a-table)            |    Easy    |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)                       |      [MySql](recyclable-and-low-fat-products)       |    Easy    |
 | 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)                                       |          [MySql](calculate-special-bonus)           |    Easy    |
+| 1965 | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/)                 |     [MySql](employees-with-missing-information)     |    Easy    |
