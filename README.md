@@ -45,6 +45,7 @@ If you would like to contribute to this repository, please first open an issue o
 
 |  #   | Title                                                                                                                   |                           Solution                           | Difficulty |
 |:----:|:------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------:|:----------:|
+| 0176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)                                           |           [MySql](database/second-highest-salary)            |   Medium   |
 | 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [MySql](database/employees-earning-more-than-their-managers) |    Easy    |
 | 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)                                                     |              [MySql](database/duplicate-emails)              |    Easy    |
 | 0183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)                                   |         [MySql](database/customers-who-never-order)          |    Easy    |
