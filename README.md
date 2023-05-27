@@ -54,7 +54,7 @@ If you would like to contribute to this repository, please first open an issue o
 | 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)                                       |          [MySql](database/delete-duplicate-emails)           |    Easy    |
 | 0608 | [Tree Node](https://leetcode.com/problems/tree-node/)                                                                   |                 [MySql](database/tree-node)                  |   Medium   |
 | 1164 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/)                           |       [MySql](database/product-price-at-a-given-date)        |   Medium   |
-| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)                       |      [MySql](database/recyclable-and-low-fat-products)       |    Easy    |
+| 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)                                                    |              [MySql](database/capital-gainloss)              |   Medium   |
 
 ## My Stats
 
