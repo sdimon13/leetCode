@@ -8,7 +8,7 @@ https://leetcode.com/problems/swap-salary/
 
 # Description
 
-Table: Salary
+Table: `Salary`
 
     +-------------+----------+
     | Column Name | Type     |
