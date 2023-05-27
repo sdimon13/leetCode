@@ -2,7 +2,7 @@
 
 Level: `Easy`
 
-https://leetcode.com/problems/delete-duplicate-emails/
+https://leetcode.com/problems/recyclable-and-low-fat-products/
 
 ---
 
