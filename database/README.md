@@ -54,6 +54,7 @@ If you would like to contribute to this repository, please first open an issue o
 | 0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)                                           |           [MySql](find-customer-referee)            |    Easy    |
 | 0595 | [Big Countries](https://leetcode.com/problems/big-countries/)                                                           |               [MySql](big-countries)                |    Easy    |
 | 0627 | [Swap Salary](https://leetcode.com/problems/swap-salary/)                                                               |                [MySql](swap-salary)                 |    Easy    |
+| 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/)             |    [MySql](user-activity-for-the-past-30-days-i)    |    Easy    |
 | 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)                       |      [MySql](group-sold-products-by-the-date)       |    Easy    |
 | 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/)                                   |         [MySql](patients-with-a-condition)          |    Easy    |
 | 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/)                                             |            [MySql](fix-names-in-a-table)            |    Easy    |
