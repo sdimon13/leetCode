@@ -52,3 +52,4 @@ If you would like to contribute to this repository, please first open an issue o
 | 0185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)                           |       [MySql](department-top-three-salaries)        |    Hard    |
 | 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)                                       |          [MySql](delete-duplicate-emails)           |    Easy    |
 | 0595 | [Big Countries](https://leetcode.com/problems/big-countries/)                                                           |               [MySql](big-countries)                |    Easy    |
+| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)                       |      [MySql](recyclable-and-low-fat-products)       |    Easy    |
