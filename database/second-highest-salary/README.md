@@ -2,7 +2,7 @@
 
 Level: `Medium`
 
-https://leetcode.com/problems/department-top-three-salaries/
+https://leetcode.com/problems/second-highest-salary/
 
 ---
 
