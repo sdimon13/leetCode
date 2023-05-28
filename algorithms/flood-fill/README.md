@@ -53,10 +53,10 @@ In this case, we start at the given pixel, and then continue to the adjacent pix
 
 ## Complexity
 - Time complexity:
-  The time complexity is O(n), where n is the number of pixels in the image. This is because in the worst case, we might need to visit all the pixels.
+  The time complexity is O(m*n), where m is the number of rows and n is the number of columns in the image. This is because in the worst case, we might need to visit all the pixels.
 
 - Space complexity:
-  The space complexity is also O(n), because in the worst case, if all pixels in the image have the same color, the depth of the recursion could go up to n.
+  The space complexity is also O(m*n), because in the worst case, if all pixels in the image have the same color, the depth of the recursion could go up to mn.
 
 ---
 
