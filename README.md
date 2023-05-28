@@ -47,13 +47,13 @@ If you would like to contribute to this repository, please first open an issue o
 |:----:|:------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------:|:----------:|
 | 0176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)                                           |           [MySql](database/second-highest-salary)            |   Medium   |
 | 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [MySql](database/employees-earning-more-than-their-managers) |    Easy    |
-| 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)                                                     |              [MySql](database/duplicate-emails)              |    Easy    |
 | 0184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)                                   |         [MySql](database/department-highest-salary)          |   Medium   |
 | 0185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)                           |       [MySql](database/department-top-three-salaries)        |    Hard    |
 | 0570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/)       |  [MySql](database/managers-with-at-least-5-direct-reports)   |   Medium   |
 | 0608 | [Tree Node](https://leetcode.com/problems/tree-node/)                                                                   |                 [MySql](database/tree-node)                  |   Medium   |
 | 1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/)                                                   |             [MySql](database/market-analysis-i)              |   Medium   |
 | 1164 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/)                           |       [MySql](database/product-price-at-a-given-date)        |   Medium   |
+| 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/)                                                   |             [MySql](database/confirmation-rate)              |   Medium   |
 | 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)                                                    |              [MySql](database/capital-gainloss)              |   Medium   |
 
 ## My Stats
