@@ -58,7 +58,7 @@ If you would like to contribute to this repository, please first open an issue o
 
 ## My Stats
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=sdimon13)](https://github.com/KnlnKS/leetcode-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/sdimon13?ext=activity)
 
 ## My Badges
 
