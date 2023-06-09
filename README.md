@@ -62,8 +62,9 @@ If you would like to contribute to this repository, please first open an issue o
 
 ## My Badges
 
-![LC 75](https://assets.leetcode.com/static_assets/others/%E5%85%A5%E9%97%A8.gif)
 ![SQLI](https://assets.leetcode.com/static_assets/others/SQLI.gif)
+![TOP SQL](https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif)
+![LC 75](https://assets.leetcode.com/static_assets/others/%E5%85%A5%E9%97%A8.gif)
 
 ## License
 
